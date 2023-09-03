@@ -1,6 +1,6 @@
 # 已完成
 ## 谱序列
-* 形式化了谱序列
+* 形式化了谱序列(进度[https://github.com/bicmr-ai4math/spectral-sequence](https://github.com/bicmr-ai4math/spectral-sequence))
 * 形式化了filtered complex
 * 证明了蝴蝶引理
 * 为了证明谱序列收敛定理做了一些基础设施
